@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-21T15:23:56 IST" name="MyStore" finished-at="2022-10-21T15:27:40 IST" duration-ms="223608">
+    <groups>
+    </groups>
+    <test started-at="2022-10-21T15:23:56 IST" name="Shop" finished-at="2022-10-21T15:27:40 IST" duration-ms="223608">
+      <class name="com.shop.TestCases.TC_FooterTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.shop.TestCases.TC_FooterTest_001@dc7df28]" started-at="2022-10-21T15:24:12 IST" name="setup" finished-at="2022-10-21T15:24:20 IST" duration-ms="8752" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="footerTest()[pri:0, instance:com.shop.TestCases.TC_FooterTest_001@dc7df28]" started-at="2022-10-21T15:24:20 IST" name="footerTest" finished-at="2022-10-21T15:26:25 IST" duration-ms="124661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.shop.TestCases.TC_FooterTest_001@dc7df28]" started-at="2022-10-21T15:26:25 IST" name="tearDown" finished-at="2022-10-21T15:26:26 IST" duration-ms="1093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.shop.TestCases.TC_FooterTest_001 -->
+      <class name="com.shop.TestCases.TC_CheckOutTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.shop.TestCases.TC_CheckOutTest_001@69c81773]" started-at="2022-10-21T15:26:59 IST" name="setup" finished-at="2022-10-21T15:27:12 IST" duration-ms="13006" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkout()[pri:0, instance:com.shop.TestCases.TC_CheckOutTest_001@69c81773]" started-at="2022-10-21T15:27:12 IST" name="checkout" finished-at="2022-10-21T15:27:39 IST" duration-ms="27554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.shop.TestCases.TC_CheckOutTest_001@69c81773]" started-at="2022-10-21T15:27:39 IST" name="tearDown" finished-at="2022-10-21T15:27:40 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.shop.TestCases.TC_CheckOutTest_001 -->
+      <class name="com.shop.TestCases.TC_DressesTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.shop.TestCases.TC_DressesTest_001@30f842ca]" started-at="2022-10-21T15:26:26 IST" name="setup" finished-at="2022-10-21T15:26:40 IST" duration-ms="14164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="dressestest()[pri:0, instance:com.shop.TestCases.TC_DressesTest_001@30f842ca]" started-at="2022-10-21T15:26:40 IST" name="dressestest" finished-at="2022-10-21T15:26:58 IST" duration-ms="17869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dressestest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.shop.TestCases.TC_DressesTest_001@30f842ca]" started-at="2022-10-21T15:26:58 IST" name="tearDown" finished-at="2022-10-21T15:26:59 IST" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.shop.TestCases.TC_DressesTest_001 -->
+      <class name="com.shop.TestCases.TC_HeaderTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.shop.TestCases.TC_HeaderTest_001@2dfaea86]" started-at="2022-10-21T15:23:56 IST" name="setup" finished-at="2022-10-21T15:24:07 IST" duration-ms="10400" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="headerTest()[pri:0, instance:com.shop.TestCases.TC_HeaderTest_001@2dfaea86]" started-at="2022-10-21T15:24:07 IST" name="headerTest" finished-at="2022-10-21T15:24:11 IST" duration-ms="4434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.shop.TestCases.TC_HeaderTest_001@2dfaea86]" started-at="2022-10-21T15:24:11 IST" name="tearDown" finished-at="2022-10-21T15:24:12 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.shop.TestCases.TC_HeaderTest_001 -->
+    </test> <!-- Shop -->
+  </suite> <!-- MyStore -->
+</testng-results>
